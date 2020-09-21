@@ -41,7 +41,7 @@ This is the repo I made while learning [Data Analysis with Python](https://www.z
 
 **All the notebooks and assignments can be found in the below link :**
 * [Notebooks](https://jovian.ml/sagarrajaim/collections/data-analysis-with-python) on jovian.ml
-* [Assignments](https://jovian.ml/ashutoshkrris/collections/assignment) on jovian.ml
+* [Assignments](https://jovian.ml/sagarrajaim/collections/data-analysis-assignments) on jovian.ml
 
-- [Notebooks](https://jovian.ml/ashutoshkrris/collections/data-analysis-with-python) on jovian.ml
+- [Notebooks](https://jovian.ml/sagarrajaim/collections/data-analysis-with-python) on jovian.ml
 - [Assignments](https://jovian.ml/sagarrajaim/collections/data-analysis-assignments) on jovian.ml
